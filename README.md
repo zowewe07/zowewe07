@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/e4/e7/d8/e4e7d819f6e3eb4a057902ca8f161068.gif" width="100%" height="100px" style="object-fit: cover;">
 
-# ☣️ 𝙸𝙽𝙸𝚃𝙸𝙰𝙻𝙸𝚚𝙸𝙽𝙶_TOXIC_𝙿𝚁𝙾𝚃𝙾𝙲𝙾𝙻.𝚎𝚡𝚎 ☣️
+# 🧪 𝚊𝚌𝚌𝚎𝚜𝚜_𝚐𝚛𝚊𝚗𝚝𝚎𝚍.exe 🧪
 
 
 <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" width="600" alt="Viper Protocol">
