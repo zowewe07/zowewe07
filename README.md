@@ -1,62 +1,77 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<div align="center">
 
-###
+# 🐍 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚝𝚘𝚡𝚒𝚌 𝚣𝚘𝚗𝚎 🐍
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=quiet.%20precise.%20intentional.&fontSize=52&fontAlign=50&fontAlignY=50&strokeWidth=4&descSize=20&descAlign=50&descAlignY=50&color=#00FF88"  />
+![Viper Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/acid.png)
+
+<img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" width="600" alt="Viper Protocol">
+
+### ❝ 𝖣𝗈𝗇'𝗍 𝗀𝖾𝗍 𝗂𝗇 𝗆𝗒 𝗐𝖺𝗒... ❞
+
+---
+
+### 🧪 [ SYSTEM_LOGS ] 🧪
+`USER: MARIANY` | `AGE: 21` | `ROLE: CYBERSECURITY STUDENT`
+
+---
+
 </div>
 
-###
+## 🐍 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+> [!CAUTION]
+> **"Only the toxic survive."**
+
+* 🖥️ **Student:** Analysis & Systems Development.
+* 🛡️ **Passionate about:** Offensive Security (Red Teaming & Ethical Hacking).
+* 🧪 **Currently experimenting with:** `Java` and `MySQL`.
+* 🌎 **Vision:** Developing secure web and mobile environments.
+* 🧬 **Languages:** 🇧🇷 Portuguese | 🇺🇸 English | 🇮🇹 Italian | 🇯🇵 Japanese.
+
+---
+
+## 🛠️ 𝙰𝚛𝚜𝚎𝚗𝚊𝚕 (𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔)
+
+<div align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+</div>
+
+---
+
+## 📊 𝚃𝚘𝚡𝚒𝚗 𝙻𝚎𝚟𝚎𝚕𝚜 (𝚂𝚝𝚊𝚝𝚜)
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif"  />
+
+<img src="https://i.pinimg.com/originals/e4/e7/d8/e4e7d819f6e3eb4a057902ca8f161068.gif" width="100%" height="100px" style="object-fit: cover;">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&icon_color=39FF14&text_color=39FF14&title_color=39FF14&bg_color=000000" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="150">
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+## 📡 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 / 𝙴𝚡𝚝𝚛𝚊𝚌𝚝𝚒𝚘𝚗
+
+<div align="center">
+
+<a href="TU_LINK_IG"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="TU_LINK_DISCORD"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br><br>
+
+![Snake](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer)
+
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/originals/e4/e7/d8/e4e7d819f6e3eb4a057902ca8f161068.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zowewe07/zowewe07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zowewe07/zowewe07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zowewe07/zowewe07/output/pacman-contribution-graph.svg">
-</picture>
-
-###
