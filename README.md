@@ -2,12 +2,12 @@
 
 <img src="https://i.pinimg.com/originals/e4/e7/d8/e4e7d819f6e3eb4a057902ca8f161068.gif" width="100%" height="100px" style="object-fit: cover;">
 
-# 🐍 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚝𝚘𝚡𝚒𝚌 𝚣𝚘𝚗𝚎 🐍
+# ☣️ 𝙸𝙽𝙸𝚃𝙸𝙰𝙻𝙸𝚚𝙸𝙽𝙶_TOXIC_𝙿𝚁𝙾𝚃𝙾𝙲𝙾𝙻.𝚎𝚡𝚎 ☣️
 
 
 <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" width="600" alt="Viper Protocol">
 
-### ❝ 𝖣𝗈𝗇'𝗍 𝗀𝖾𝗍 𝗂𝗇 𝗆𝗒 𝗐𝖺𝗒... ❞
+### ❝ 𝖡𝗋𝖾𝖺𝗍𝗁𝖾 𝗂𝗍 𝗂𝗇... 𝖨 𝖼𝗈𝗇𝗍𝗋𝗈𝗅 𝗍𝗁𝚎 𝗏𝖾𝗇𝚘𝗆 𝗁𝖾𝗋𝖾. ❞
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 🐍 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 > [!CAUTION]
-> **"Only the toxic survive."**
+> **"They call me a monster. Shall I prove them right?"**
 
 * 🖥️ **Student:** Analysis & Systems Development.
 * 🧪 **Passionate about:** Offensive Security (Red Teaming & Ethical Hacking).
@@ -30,9 +30,9 @@
 
 ---
 
-## ☣️ 𝙿𝚞𝚛𝚎 𝙰𝚞𝚛𝚊
+## ☣️ 𝙼𝚒𝚗𝚍𝚜𝚎𝚝
 > [!TIP]
-> ### 🐍 I Purely, Absolutely, & Utterly Love Programming 🐍
+> ### 🐍"Every system has a weakness. I just find it." 🐍
 > *The thrill of breaking, building, and controlling... is my fuel.*
 
 ---
