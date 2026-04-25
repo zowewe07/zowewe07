@@ -1,8 +1,9 @@
 <div align="center">
 
+<img src="https://i.pinimg.com/originals/e4/e7/d8/e4e7d819f6e3eb4a057902ca8f161068.gif" width="100%" height="100px" style="object-fit: cover;">
+
 # 🐍 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚝𝚘𝚡𝚒𝚌 𝚣𝚘𝚗𝚎 🐍
 
-![Viper Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/acid.png)
 
 <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" width="600" alt="Viper Protocol">
 
@@ -11,7 +12,7 @@
 ---
 
 ### 🧪 [ SYSTEM_LOGS ] 🧪
-`USER: MARIANY` | `AGE: 21` | `ROLE: CYBERSECURITY STUDENT`
+`USER: ZOE` | `AGE: 18` | `ROLE: SOFTWARE ENGINEERING STUDENT`
 
 ---
 
@@ -22,10 +23,17 @@
 > **"Only the toxic survive."**
 
 * 🖥️ **Student:** Analysis & Systems Development.
-* 🛡️ **Passionate about:** Offensive Security (Red Teaming & Ethical Hacking).
+* 🧪 **Passionate about:** Offensive Security (Red Teaming & Ethical Hacking).
 * 🧪 **Currently experimenting with:** `Java` and `MySQL`.
-* 🌎 **Vision:** Developing secure web and mobile environments.
-* 🧬 **Languages:** 🇧🇷 Portuguese | 🇺🇸 English | 🇮🇹 Italian | 🇯🇵 Japanese.
+* 🧪 **Vision:** Developing secure web and mobile environments.
+* 🧪 **Languages:** | 🇺🇸 English | ES Spanish | 🇯🇵 Japanese.
+
+---
+
+## ☣️ 𝙿𝚞𝚛𝚎 𝙰𝚞𝚛𝚊
+> [!TIP]
+> ### 🐍 I Purely, Absolutely, & Utterly Love Programming 🐍
+> *The thrill of breaking, building, and controlling... is my fuel.*
 
 ---
 
@@ -49,10 +57,6 @@
 ## 📊 𝚃𝚘𝚡𝚒𝚗 𝙻𝚎𝚟𝚎𝚕𝚜 (𝚂𝚝𝚊𝚝𝚜)
 
 <div align="center">
-
-<img src="https://i.pinimg.com/originals/e4/e7/d8/e4e7d819f6e3eb4a057902ca8f161068.gif" width="100%" height="100px" style="object-fit: cover;">
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&icon_color=39FF14&text_color=39FF14&title_color=39FF14&bg_color=000000" height="150">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="150">
